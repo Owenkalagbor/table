@@ -1,0 +1,17 @@
+h1{
+    color: blue;
+}
+caption{
+
+    font-size: 20px;
+    color: yellow;
+}
+body{
+    background-color: purple !important;
+}
+h1{
+    color: brown;
+}
+span{
+    color: red;
+}
